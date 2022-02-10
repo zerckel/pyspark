@@ -84,5 +84,4 @@ if __name__ == '__main__':
     create_csv(get_cheaper_country("AirPods Pro"), "airpodsPro.csv")
     print("Write under 'assets/airpodsPro.csv'\n")
 
-
     print("==== END SCRIPT ====")
